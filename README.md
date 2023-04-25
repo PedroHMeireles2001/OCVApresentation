@@ -1,4 +1,4 @@
-#Slide Presentation Tool using Mediapipe and OpenCV
+# Slide Presentation Tool using Mediapipe and OpenCV
 
 This is a repository for a slide presentation tool created using Mediapipe and OpenCV. The tool enables the user to navigate through a presentation using hand gestures captured by a webcam.
 
