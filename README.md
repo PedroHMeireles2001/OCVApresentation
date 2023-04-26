@@ -14,7 +14,7 @@ To install these libraries, you can run the following command:
 
 ## Usage
 To use the tool, simply run the ´slide-gestures.py´ script using Python:
-> python presentation_tool.py
+> python slide-gestures.py
 
 Once the script is running, you can navigate through your presentation using the following hand gestures:
 - Thumb up: Move to the next slide
